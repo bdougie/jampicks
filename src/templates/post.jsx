@@ -55,7 +55,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         cover
-        date
         category
         tags
       }
@@ -65,7 +64,6 @@ export const pageQuery = graphql`
         prevTitle
         prevSlug
         slug
-        date
       }
     }
   }
