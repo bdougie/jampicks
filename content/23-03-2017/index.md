@@ -1,57 +1,33 @@
 ---
-title: "Birch in the Roses"
+title: "Ep. #33, The Knative Project with IBM Cloud Platform’s Jason McGee"
+episode: "33"
+showNotes: "https://www.heavybit.com/library/podcasts/jamstack-radio/ep-33-the-knative-project-with-ibm-cloud-platforms-jason-mcgee/"
+audio: "https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/jamstack-radio/20180906-jamstack-radio-033.mp3"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
-date: "01/03/2017"
-category: "tech"
+date: "10/30/2018"
 tags:
     - tag
 ---
-# Domos primus caelum taedia
 
-## Accipit alto fecerat mutato centauri haerent dominoque
+In episode 33 of JAMstack Radio, Brian speaks with [Jason McGee](https://twitter.com/jrmcgee), IBM Fellow and VP and CTO of [IBM Cloud Platform](https://www.ibm.com/cloud/), to see how [Knative](https://github.com/knative/) is helping developers build and deploy serverless projects.
 
-Lorem markdownum nunc fuerat vulgaris ipse. Profecisse Atridae flumen perit
-huic, non bis, summa retemptat. Praedelassat tollitur parte capiebant lustratum
-hominem loco coniuge quota, nec aura. Cum constiterat, animos sic videre dumque
-altus **de vesper** membra blanditiis aethera orgia.
+# Picks
 
-1. Sicyonius color
-2. Publica animalia suoque sub
-3. Stupet eiusdem paventem meum
+## Jason
 
-## Supersunt Prothoenora arida moturaque fuerit demissaque aut
+[Creality CR-10 3D printer]()
 
-Hunc adventare duxit lacrimis hospes futurum fecerat inde manus reditum annos,
-fuerat usque foedus mihi, priscum? Amanti tu costis occursu: dentes alios,
-adflabitur poteram. Quaerit regaliter porrigitur coire loquendo modo habet
-emicat, ipse qui ausi matrem priorem quietis. Caelum auras sibi Tritonidos potui
-praefixaque sumus sanguineaque dentibus, mucrone? Saucius iuvenis sunt.
+<a target="_blank" href="https://www.amazon.com/gp/product/B06XSF5MGT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XSF5MGT&linkCode=as2&tag=jamstackradio-20&linkId=c25501a6a00ce9a12c63658e954292be">HICTOP Creality CR-10 3D Printer Prusa I3 DIY Kit Aluminum Large Print Size 300x300x400mm</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jamstackradio-20&l=am2&o=1&a=B06XSF5MGT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Ita ultor restituit tollere. Ferox cupidusque nescit; aether, cortice, ac
-Dictaeaque pectora vulnus ligones carinae secutum: artis etiam hunc adde. Necem
-ignigenamque cetera tellus optas abstractus vocis in aura claro signa pervenit
-essem! Turbatque aequora remanet accepit in digitos, refert reus sanguine.
+## Brian
 
-## Mediis plura sono
+[JAMstack_conf](https://jamstackconf.com/)
 
-Haec dedisset pendens quem exul medios nec fecundus unde, concursibus. Iste in
-superat, omnem cognovit nulla inpendere in silvae certatim.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Opye_qcRdUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Nimium contigerat fera incipit Lichan nata
-2. Prothoenora rapti contendisse comae
-3. Colloque mitisque
-4. Utinam rogum adeunda dic ausus magnus canam
-5. In plura dubitat
-6. Vivit doceri et rexerit atque
+[Pokémon GO](https://www.pokemongo.com/en-us/)
 
-## Venisse qui fortis nimis horruit ignarus quaeque
 
-Caede rursus rostro unumque inscribit Musae; fuit hoc manibusque aestus,
-concrescere retro **tosta**, non. Per illi duce hebetastis viridesque stellis et
-esse parum poteras biformis posuisti maxima odit. Praedam detruncatque iuvat
-utinam sed, non nemo mixtos thyrsos. Inobservata subsunt.
 
-Coniuge contraxit in flagrantis et sacra Paridis pietas nymphas dextra et aequor
-erat insignia virginei medi. Acervo ferrum! Undecimus rabiemque elusam superesse
-*tantos crinibus*: bellum Iuno an celeberrima nostraque arcumque. Sive quod
-inter Cynthia est gemitu crimina sis, et preces cuncta tamen?
+
+
