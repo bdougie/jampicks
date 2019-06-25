@@ -1067,9 +1067,10 @@ address@1.0.3, address@^1.0.1:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/address/-/address-1.0.3.tgz#b5f50631f8d6cec8bd20c963963afb55e06cbce9"
 
-adverb-where@0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/adverb-where/-/adverb-where-0.0.9.tgz#09c5cddd8d503b9fe5f76e0b8dc5c70a8f193e34"
+adverb-where@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/adverb-where/-/adverb-where-0.2.1.tgz#5c639ed02d06c4c61d64296cf72f6ea39e682a49"
+  integrity sha512-IAveFBziMRMNPKFdWRcdIKaJvJG1cAfU9/tf9MzqQ84Dh4QjD9eqwnt4hNSt9cbrcEJD74BMIOaRVgVDEU7MwQ==
 
 after@0.8.2:
   version "0.8.2"
@@ -2810,14 +2811,10 @@ command-exists@^1.2.2:
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/command-exists/-/command-exists-1.2.7.tgz#16828f0c3ff2b0c58805861ef211b64fc15692a8"
 
-commander@^2.11.0, commander@^2.9.0:
-  version "2.18.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.18.0.tgz#2bf063ddee7c7891176981a2cc798e5754bc6970"
-
-commander@^2.12.2, commander@^2.18.0:
-  version "2.19.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.19.0.tgz#f6198aa84e5b83c46054b94ddedbfed5ee9ff12a"
-  integrity sha512-6tvAOO+D6OENvRAh524Dh9jcfKTYDQAqvqezbCW82xj5X0pSrcpxtvRKHLG0yBY6SD7PSDrJaj+0AiOcKVd1Xg==
+commander@^2.11.0, commander@^2.18.0, commander@^2.19.0, commander@^2.9.0:
+  version "2.20.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.0.tgz#d58bb2b5c1ee8f87b0d340027e9e94e222c5a422"
+  integrity sha512-7j2y+40w61zy6YC2iRNpUe/NwhNyoXrYpHMrSunaMG64nRnaf96zO/KMQR4OyN/UnE5KLyEBnKHd4aG3rskjpQ==
 
 commander@~2.13.0:
   version "2.13.0"
@@ -8449,9 +8446,10 @@ nlcst-to-string@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/nlcst-to-string/-/nlcst-to-string-2.0.2.tgz#7125af4d4d369850c697192a658f01f36af9937b"
 
-no-cliches@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/no-cliches/-/no-cliches-0.1.0.tgz#f4eb81a551fecde813f8c611e35e64a5118dc38c"
+no-cliches@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/no-cliches/-/no-cliches-0.2.2.tgz#8dca569aa9eb28a8c3f431804a5aadd524607f0a"
+  integrity sha512-iEOqDAOFl6uN5jZGRj39Jdo8qALzf2HPXtpFso8+BMaDylDrUMYMwhFbfYGgxdnMlsRnxYTwv68kaXEpsHIapg==
 
 node-abi@^2.2.0:
   version "2.4.3"
@@ -8736,7 +8734,7 @@ object-visit@^1.0.0:
   dependencies:
     isobject "^3.0.0"
 
-object.assign@^4.0.4, object.assign@^4.1.0:
+object.assign@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/object.assign/-/object.assign-4.1.0.tgz#968bf1100d7956bb3ca086f006f846b3bc4008da"
   integrity sha512-exHJeq6kBKj58mqGyTQ9DFvrZC/eR6OwxzoM9YRoGBqrXYonaFyGiFMuc9VZrXf7DarreEwMpurG3dd+CNyW5w==
@@ -12430,9 +12428,10 @@ toidentifier@1.0.0:
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.0.tgz#7e1be3470f1e77948bc43d94a3c8f4d7752ba553"
   integrity sha512-yaOH/Pk/VEhBWWTlhI+qXxDFXlejDGcQipMlyxda9nthulaxLZUNcUqFxokp0vcYnvteJln5FNQDRrxj3YcbVw==
 
-too-wordy@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/too-wordy/-/too-wordy-0.1.4.tgz#8e7b20a7b7a4d8fc3759f4e00c4929993d1b12f0"
+too-wordy@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/too-wordy/-/too-wordy-0.2.2.tgz#e02b43a9e0817621a71db5d7d1c67634820a23d0"
+  integrity sha512-ePZfjs1ajL4b8jT4MeVId+9Ci5hJCzAtNIEXIHyFYmKmQuX+eHC/RNv6tuLMUhrGrhJ+sYWW/lBF/LKILHGZEA==
 
 topo@2.x.x:
   version "2.0.2"
@@ -13485,18 +13484,17 @@ write-file-stdout@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/write-file-stdout/-/write-file-stdout-0.0.2.tgz#c252d7c7c5b1b402897630e3453c7bfe690d9ca1"
 
-write-good@^0.13.1:
-  version "0.13.1"
-  resolved "https://registry.yarnpkg.com/write-good/-/write-good-0.13.1.tgz#db8ecc77e610ea54d43b8d759728eed5a3a6251a"
-  integrity sha512-7ouqLCvm2mpgiOyE++6zMiJymcvwpQ6nU26oY9RjM4C5Z5dW8bUBIADc4KCnvLDm1dLqTm06XYBolJe78EeurQ==
+write-good@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/write-good/-/write-good-1.0.1.tgz#96a2a25e959761eb6a0430e108c865a479b45da1"
+  integrity sha512-wSmjZBTHMOexWmK3AmSORGlWAICD98BF0LORYjkK58tChjjMr/BltpvohCThxmIE2vcHYccXHzSVBd/v8ew71g==
   dependencies:
-    adverb-where "0.0.9"
-    commander "^2.12.2"
+    adverb-where "^0.2.1"
+    commander "^2.19.0"
     e-prime "^0.10.2"
-    no-cliches "^0.1.0"
-    object.assign "^4.0.4"
+    no-cliches "^0.2.2"
     passive-voice "^0.1.0"
-    too-wordy "^0.1.4"
+    too-wordy "^0.2.2"
     weasel-words "^0.1.1"
 
 write@^0.2.1:
