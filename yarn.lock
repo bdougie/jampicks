@@ -5395,15 +5395,15 @@ gatsby-remark-prismjs@3.0.3:
     parse-numeric-range "^0.0.2"
     unist-util-visit "^1.3.0"
 
-gatsby-remark-responsive-iframe@2.0.6:
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-responsive-iframe/-/gatsby-remark-responsive-iframe-2.0.6.tgz#586ea891cefa8798835ea44a837aa62ea7033dcf"
-  integrity sha512-ox+CB3gDFgc5AuNhWqWHo7a0YyvA4hmLHixRGxyKfdxi6NeCCzJPHHRiHquvcQ179tDz94+rNusM8qnjrY3NHA==
+gatsby-remark-responsive-iframe@2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-responsive-iframe/-/gatsby-remark-responsive-iframe-2.2.4.tgz#b7a3151a5f3d3ccd3b5c3c7c04b332714697a8d8"
+  integrity sha512-FI7VNYDOrrvK1sSdkIQhFN6B1BLMgKIJCm08TUu+AH5DMNuI8MzFJ1vY9p9tloMd/uyi3Wd5iTiqh+HMulu7+w==
   dependencies:
     "@babel/runtime" "^7.0.0"
     bluebird "^3.5.0"
     cheerio "^1.0.0-rc.2"
-    lodash "^4.17.10"
+    lodash "^4.17.14"
     unist-util-visit "^1.3.0"
 
 gatsby-source-filesystem@2.0.7:
@@ -7757,7 +7757,7 @@ lodash.uniq@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
 
-lodash@^4.0.0, lodash@^4.1.0, lodash@^4.11.1, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0:
+lodash@^4.0.0, lodash@^4.1.0, lodash@^4.11.1, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
