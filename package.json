@@ -30,7 +30,7 @@
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
     "react-disqus-comments": "^1.4.0",
-    "react-dom": "^16.6.0",
+    "react-dom": "^16.13.0",
     "react-helmet": "^5.2.1",
     "react-share": "^3.0.0",
     "react-twitter-widgets": "^1.7.1",
