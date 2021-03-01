@@ -667,11 +667,12 @@
     "@babel/plugin-transform-react-jsx-self" "^7.0.0"
     "@babel/plugin-transform-react-jsx-source" "^7.0.0"
 
-"@babel/runtime@^7.0.0":
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.0.0.tgz#adeb78fedfc855aa05bc041640f3f6f98e85424c"
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.12.5":
+  version "7.13.8"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.13.8.tgz#cc886a85c072df1de23670dc1aa59fc116c4017c"
+  integrity sha512-CwQljpw6qSayc0fRG1soxHAKs1CnQMOChm4mlQP6My0kf9upVGizj/KhlTTgyUnETmHpcUXjaluNAkteRFuafg==
   dependencies:
-    regenerator-runtime "^0.12.0"
+    regenerator-runtime "^0.13.4"
 
 "@babel/template@7.0.0-beta.44":
   version "7.0.0-beta.44"
@@ -5508,12 +5509,12 @@ gatsby-plugin-sitemap@2.2.0:
     pify "^3.0.0"
     sitemap "^1.12.0"
 
-gatsby-plugin-twitter@2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-twitter/-/gatsby-plugin-twitter-2.1.2.tgz#362fedaf295b6ccfb914d8f4381ef991a5992aa2"
-  integrity sha512-/9zuJcITmhALNtSOAw0QtZmx45qCd8AfqM+S+nlRX6PO2boUcE4AJwa9OK/hHOFrmrE5lFHchRC5exzt3gWTQw==
+gatsby-plugin-twitter@2.10.0:
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-twitter/-/gatsby-plugin-twitter-2.10.0.tgz#56e88f4e175efbad7f4967f6dd02bc2fd98d072b"
+  integrity sha512-liPVrUjQIapSmYRhJFpm1AFCBqD9jO696M0ly9HLvjnY/uB1WewN484X07a95cRVYVLoc7kIZrMkJjx8GxVxjw==
   dependencies:
-    "@babel/runtime" "^7.0.0"
+    "@babel/runtime" "^7.12.5"
 
 gatsby-react-router-scroll@^2.0.1:
   version "2.0.1"
@@ -10709,9 +10710,10 @@ regenerator-runtime@^0.11.0, regenerator-runtime@^0.11.1:
   version "0.11.1"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
 
-regenerator-runtime@^0.12.0:
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.12.1.tgz#fa1a71544764c036f8c49b13a08b2594c9f8a0de"
+regenerator-runtime@^0.13.4:
+  version "0.13.7"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.7.tgz#cac2dacc8a1ea675feaabaeb8ae833898ae46f55"
+  integrity sha512-a54FxoJDIr27pgf7IgeQGxmqUNYrcV338lf/6gH456HZ/PhX+5BcwHXG9ajESmwe6WRO0tAzRUrRmNONWgkrew==
 
 regenerator-transform@^0.13.3:
   version "0.13.3"
